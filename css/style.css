@@ -26,6 +26,12 @@ img{
     max-width: 4ch;
 }
 
+.hyperlink{
+    text-decoration: none;
+    text-decoration-style: none;
+    outline: none;
+}
+
 /* Global - Responsividade */
 @media(max-width: 950px){
     .experiencia-texto, .formacao-texto, .footer-texto, .footer-contato{
